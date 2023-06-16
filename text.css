@@ -2,5 +2,6 @@ p { font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: 2em;
   color:yellow;
   border:1px solid red;
+  height:1em;
 
 }
